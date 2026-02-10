@@ -4,6 +4,7 @@ apt install ethtool -y
 
 ip addr
 
+// find all attached network cards
 find network card id
 
 ethtool enp6s0
