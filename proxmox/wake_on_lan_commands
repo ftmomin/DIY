@@ -1,4 +1,4 @@
-#This file contains commands used to enable Proxmox Wake On Lan
+// This file contains commands used to enable Proxmox Wake On Lan
 
 apt install ethtool -y
 
